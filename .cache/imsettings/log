@@ -1,0 +1,46 @@
+[ 1617118009.517186]: IMSettings-Daemon[5010]: INFO: Starting imsettings-daemon...
+[ 1617118009.517277]: IMSettings-Daemon[5010]: INFO:   [HOME=/root/.config/imsettings]
+[ 1617118009.517301]: IMSettings-Daemon[5010]: INFO:   [XINPUTRCDIR=/etc/X11/xinit/]
+[ 1617118009.517321]: IMSettings-Daemon[5010]: INFO:   [XINPUTDIR=/etc/X11/xinit/xinput.d/]
+
+[ 1617118009.517340]: IMSettings-Daemon[5010]: INFO:   [MODULEDIR=/usr/lib64/imsettings]
+
+[ 1617118009.517371]: IMSettings-Daemon[5010]: INFO:   [MODULES=gsettings, qt]
+
+
+[ 1617118009.520990]: IMSettings-Qt backend[5010]: WARNING **: Unable to obtain the DefaultInputMethod: Key file does not have group “Qt”
+
+[ 1617118009.532699]: IMSettings-Qt backend[5010]: WARNING **: Unable to obtain the DefaultInputMethod: Key file does not have group “Qt”
+imsettings information
+==========================
+XINPUTRC: N/A
+Is DBus enabled: yes
+Is imsettings enabled: yes
+Is GTK+ supported: no
+Is Qt supported: 
+[ 1617118009.575306]: IMSettings-Qt backend[5010]: WARNING **: Unable to obtain the DefaultInputMethod: Key file does not have group “Qt”
+
+[ 1617118009.584674]: IMSettings-Qt backend[5010]: WARNING **: Unable to obtain the DefaultInputMethod: Key file does not have group “Qt”
+yes
+DESKTOP: unknown
+GUESS_DESKTOP: 
+DISABLE_IMSETTINGS: 
+IMSETTINGS_DISABLE_DESKTOP_CHECK: 
+DBUS_SESSION_BUS_ADDRESS: unix:abstract=/tmp/dbus-1QCMAwFFly,guid=48d912c80b0ce724d6e9fb0060634339
+GTK_IM_MODULE: 
+QT_IM_MODULE: 
+XMODIFIERS: 
+IMSETTINGS_MODULE: none
+IMSETTINGS_INTEGRATE_DESKTOP: yes
+
+
+[ 1617118016.042116]: IMSettings-Daemon[5010]: WARNING **: Child process exited with code 1
+
+[ 1617118016.042992]: IMSettings-Qt backend[5010]: WARNING **: Unable to obtain the DefaultInputMethod: Key file does not have group “Qt”
+[ 1617118016.357181]: IMSettings-Daemon[5010]: INFO: Attempting to switch IM to none [lang=en_IN.UTF-8, update=false]
+
+[ 1617118016.792689]: IMSettings-Daemon[5010]: WARNING **: Child process exited with code 1
+[ 1617118016.792897]: IMSettings-Daemon[5010]: INFO:   no need to invoke any auxiliary process for none
+[ 1617118016.793071]: IMSettings-Daemon[5010]: INFO:   no need to invoke any main process for none
+[ 1617118016.841719]: IMSettings-Qt backend[5010]: INFO: Setting up xim as Qt immodule
+[ 1617118016.842253]: IMSettings-GSettings backend[5010]: INFO: Setting up gtk-im-context-simple:xim as gtk+ immodule

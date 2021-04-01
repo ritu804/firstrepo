@@ -1,0 +1,16 @@
+[$Version]
+update_info=konsole.upd:2.9.0-global-options
+
+[Desktop Entry]
+DefaultProfile=Shell.profile
+
+[Favorite Profiles]
+Favorites=Shell.profile
+
+[MainWindow]
+Height 716=717
+Height 851=852
+State=AAAA/wAAAAD9AAAAAAAABXMAAAMGAAAABAAAAAQAAAAIAAAACPwAAAAA
+ToolBarsMovable=Disabled
+Width 1569=1395
+Width 814=659
