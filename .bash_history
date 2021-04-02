@@ -97,3 +97,60 @@ docker run -it --mount source=apache,target=/var/www/html
 docker run -it --mount source=apache,target=/var/www/html -d new docker file
 exit
 vi prog1.c
+yum install git
+vi file3
+git status
+git add -A
+git status
+git commit
+git commit -M
+git commit -m "file3 added"
+git config -l
+git config -- global user.name
+git config -- global user.email "demo.labs08@gmail.com"
+vi file3
+ls
+mkdir file4
+mv file3 file4 
+ls
+git config -- global user.name "ritu sinnarkar"
+ls
+git push
+git push origin master
+ls
+git branch
+git branch feature1
+git branch
+ls
+git pull
+ls
+git checkout feature1
+git branch 
+vi f1.c
+git checkout
+git checkout master
+ls
+git status
+git checkout feature1
+git status
+git add -a
+git commit -m"Beta f1 added"
+ls
+git checkout master
+git chechkout 'feature1'
+git checkout 'feature1'
+git checkout master
+vi m1.c
+git add -A
+git commit -m "sql query bug fixed"
+git log
+git checkout master
+git log
+git merge feature1
+ls
+git checkout feature1
+git checkout 'feature1'
+ls
+git  checkout master
+git checkout feature1
+exit
